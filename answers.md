@@ -36,5 +36,5 @@ In case of request made to www.google.com, the HTML for the google homepage is r
 
 Link:
 
-[Github]{www.github.com/shehraj123}
+[Github](https://github.com/shehraj123/cmput404-lab2)
 
